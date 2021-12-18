@@ -12,7 +12,21 @@ var tree = "wood"
 var water = "ocean"
 var rain = "water"
 var person = "human"
+var oxygen = "main of life"
 
+
+ oxygen = false
+
+
+if (oxygen == false) {
+  console.log("There no oxygen how human, animals, creatures life!?")
+  sleep(5000)
+  console.clear()
+  oxygen = true
+  console.log("trying to add oxygen.")
+  sleep(9000)
+  console.log("Added oxygen life is start")
+}
 tree = false
 
 if (tree == false) {
