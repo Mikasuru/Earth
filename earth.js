@@ -113,6 +113,25 @@ console.log("Jack, Rose, Meow ku found more 10 people")
 var sick = "virus"
 var city = "13 people"
 
+function life(100) {
+if(sick == false) {
+// Do a normal day.
+load(earth);
+load(tree);
+load(water);
+load(rain);
+load(oxygen);
+load(person);
+console.log("a normal days.");
+} else {
+if(sick == true) {
+const GetDisease = new Disease();
+if(GetDisease == "CoronaVirus" || GetDisease == "COVID19" || GetDisease == "Covid") {
+// We're reducing the oxygen.
+var oxygen = new Oxygen();
+oxygen.reduce(15);
+console.log("You get invected by COVID");
+
 // Next update soon.
 } else {
 console.log("you have a disease. but calm this can be cured.");
