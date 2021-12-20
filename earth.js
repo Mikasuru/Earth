@@ -113,6 +113,14 @@ console.log("Jack, Rose, Meow ku found more 10 people")
 var sick = "virus"
 var city = "13 people"
 
+// Next update soon.
+} else {
+console.log("you have a disease. but calm this can be cured.");
+    }
+   }
+  }
+}
+
 sick = true
 if (sick == true) {
   var Jack = "Jack"
