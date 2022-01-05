@@ -1,5 +1,6 @@
 # Earth
 - Just an Earth open source
+- Line 67 - End will be the storyline
 - This source will show you how the lazy god made the world
 # Issues
 You can tell me your any problems about the earth
