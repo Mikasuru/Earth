@@ -8,7 +8,7 @@
 # Noted
 - You can change everything inside here!
 # Running
-```py earth.py```
+```py {FILE_NAME}.py```
 # Changelogs
 ```
 Earth - v1.1
