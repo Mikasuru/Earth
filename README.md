@@ -2,19 +2,22 @@
 
 
 # Earth
-- Just an Earth open source
-- Line 67 - End will be the storyline
-- This source will show you how the lazy god made the world
-# Issues
-You can tell me your any problems about the earth
-- For example:
-I want to remove the sun because i want to sleep
-# Change logs
+- How the god manage the Earth!
+- Come with "Python" language
+- Using the PySimpleGUI module!
+# Noted
+- You can change everything inside here!
+# Changelogs
 ```
-v.1.0
+Earth - v1.0
 - Change whole Source from JavaScript to Typescript
-> Reason i changed is i wanna learn Typescript
 - Change the story
 - Added dangerous file
 - Added Anti Sadness
+```
+```
+Earth - v1.1
+- Change the source from Typescript to Python to easier manage
+- Added the basic database system
+- Added the PySimpleGUI module
 ```
