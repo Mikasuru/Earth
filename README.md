@@ -9,15 +9,15 @@
 - You can change everything inside here!
 # Changelogs
 ```
+Earth - v1.1
+- Change the source from Typescript to Python to easier manage
+- Added the basic database system
+- Added the PySimpleGUI module
+```
+```
 Earth - v1.0
 - Change whole Source from JavaScript to Typescript
 - Change the story
 - Added dangerous file
 - Added Anti Sadness
-```
-```
-Earth - v1.1
-- Change the source from Typescript to Python to easier manage
-- Added the basic database system
-- Added the PySimpleGUI module
 ```
