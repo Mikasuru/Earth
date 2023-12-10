@@ -7,6 +7,8 @@
 - Using the PySimpleGUI module!
 # Noted
 - You can change everything inside here!
+# Running
+```py earth.py```
 # Changelogs
 ```
 Earth - v1.1
